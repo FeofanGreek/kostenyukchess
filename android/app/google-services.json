@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "662929835604",
+    "project_id": "chess-c7b5f",
+    "storage_bucket": "chess-c7b5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662929835604:android:203c70950659ca06c84fc1",
+        "android_client_info": {
+          "package_name": "ru.kostenyuk.chess.chess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662929835604-2gmagou6ioagje6rbmj3vineft4n7goe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.kostenyuk.chess.chess",
+            "certificate_hash": "7f5eb4fef60c814ef932c200a3803c193de52be6"
+          }
+        },
+        {
+          "client_id": "662929835604-ia60hcg9umdh775e742r79ki12aun4i7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.kostenyuk.chess.chess",
+            "certificate_hash": "b14a77de4963ed5271fcf90de4234f85c908c5d8"
+          }
+        },
+        {
+          "client_id": "662929835604-ehgf9dfnk3dmvpoop8mt9bjicak7mdfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkQe45gt9Qx9RMAlTOvAbQQa9iPD0MMAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662929835604-ehgf9dfnk3dmvpoop8mt9bjicak7mdfd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "662929835604-6fapen339o80heepqkdhjn2qt0q9uavi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ru.koldashev.chess"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
